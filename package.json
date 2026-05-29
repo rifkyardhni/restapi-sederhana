@@ -1,0 +1,13 @@
+{
+  "name": "simple-product-rest-api",
+  "version": "1.0.0",
+  "description": "Simple Product REST API for backend assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
